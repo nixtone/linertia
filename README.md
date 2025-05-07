@@ -14,3 +14,9 @@ composer require inertiajs/inertia-laravel
 ``
 php artisan inertia:middleware  
 ``  
+``
+npm install @inertiajs/vue3
+``    
+``
+npm i @vitejs/plugin-vue
+``  
