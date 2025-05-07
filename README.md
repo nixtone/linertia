@@ -11,3 +11,6 @@ npm i vue@latest
 ``
 composer require inertiajs/inertia-laravel  
 ``  
+``
+php artisan inertia:middleware  
+``  
