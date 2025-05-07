@@ -5,3 +5,6 @@
 ``
 composer create-project laravel/laravel .  
 ``  
+``
+npm i vue@latest
+``  
