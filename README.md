@@ -8,3 +8,6 @@ composer create-project laravel/laravel .
 ``
 npm i vue@latest
 ``  
+``
+composer require inertiajs/inertia-laravel  
+``  
