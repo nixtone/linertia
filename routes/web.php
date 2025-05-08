@@ -8,3 +8,9 @@ Route::get('/', function () {
 
     // view('welcome');
 });
+
+Route::get('/about', function () {
+    return inertia('About', ['user' => 'Mike']); // тоже самое что Inertia::render('Home');
+});
+
+Route::inertia('/direct', 'Direct', ['status' => 'done']);
